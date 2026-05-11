@@ -77,6 +77,18 @@ Currículo:[Curriculo_Ana_Beatris_Estilo_Original.pdf](https://github.com/user-a
 | **SM9** | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | 04/05 | [github.com/anab1231/videoaula-app](https://github.com/anab1231/videoaula-app/tree/main)  ✅ Concluído 
 
 
+### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
+
+- `root/`: Arquivo de apresentação principal.
+- `/aula-01-prompt-iterativo/`: Pasta contendo o registro dos prompts, resultados e README específico do projeto.
+- `/aula-02-teachable-machine/`: Pasta contendo o print do modelo e o README específico do projeto.
+- `/aula-03-batalha-de-modelos/`: Pasta contendo o PDF do quadro comparativo e o README específico do projeto.
+- `/aula-04-vibe-coding/`: Pasta contendo o README específico do projeto e link do AI Studio.
+- `/aula-05-produto-firebase/`: Pasta contendo o código-fonte do ShadowLab e o README específico do projeto.
+- `/aula-07-bubble/`: Pasta contendo prints de governança, segurança e o README específico do projeto.
+
+
 <img width="880" height="192" alt="github-snake" src="https://github.com/user-attachments/assets/9c73e34a-e578-495e-861e-6ca4078b970b" /><svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc>
 
 
