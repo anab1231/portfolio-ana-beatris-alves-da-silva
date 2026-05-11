@@ -77,32 +77,6 @@ Currículo:[Curriculo_Ana_Beatris_Estilo_Original.pdf](https://github.com/user-a
 | **SM9** | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | 04/05 | [github.com/anab1231/videoaula-app](https://github.com/anab1231/videoaula-app/tree/main)  ✅ Concluído 
 
 
-
----
-
-### 📂 Portfólio de Projetos obra social dom bosco 
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Smart-sampa-da-mulher-** | Projeto pessoal focado em ajudar mulheres vítimas de feminicídio. | [Ver Projeto](./Smart-sampa-da-mulher-/) |
-| **Projeto Markneural** | Projeto acadêmico desenvolvido para a aula do Prof. Diego. | [Ver Projeto](./projeto-markneural/) |
-| **Mercado (NeuralMarket)** | Projeto de e-commerce e sistemas de vendas. | [Ver Projeto](./mercado/) |
-| **Python Finance** | Aplicação de gestão ou análise financeira desenvolvida em Python. | [Ver Projeto](./projeto-em-python_finance/) |
-| **Banco de Dados PHP** | Implementação de banco de dados e lógica em aula de PHP. | [Ver Projeto](./banco-de-dados-PHP/) |
-| **Projeto Mobilidade** | Tecnologia e sustentabilidade (Obra Social Dom Bosco). | [Ver Projeto](./projeto-mobilidade/) |
-| **Sistema Digital (SUS)** | Projeto solo focado em UX e gestão de saúde. | [Ver Projeto](./projeto-sistemadigital/) |
-| **Calculadora em C** | Calculadora funcional via terminal para prática de lógica. | [Ver Projeto](./calculadora-em-C-/) |
-| **Arquivos C++** | Manipulação de arquivos e fluxos de dados em C++. | [Ver Projeto](./arquivos-/) |
-| **Teste Arduino** | Prototipagem eletrônica e testes de hardware. | [Ver Projeto](./teste-Arduino/) |
-| **Mobiliária** | Interface web voltada para o setor imobiliário. | [Ver Projeto](./mobiliária/) |
-| **Rodoviária** | Estruturação de interface para sistema rodoviário. | [Ver Projeto](./rodoviária/) |
-| **Elementos Épicos** | Estudo de componentes visuais e estilização avançada. | [Ver Projeto](./elementos-épicos/) |
-| **Acesso Secreto** | Implementação de fluxos de acesso e áreas restritas. | [Ver Projeto](./acesso-secreto/) |
-| **JK Finanças** | Interface financeira para controle de cálculos e gastos. | [Ver Projeto](./jk-finanças/) |
-| **Prática HTML** | Conjunto de exercícios fundamentais para domínio da linguagem. | [Ver Projeto](./pratica_html/) |
-| **Lógica C (05 / C-)** | Repositórios focados em lógica e estruturas de dados. | [Ver Projeto](./projeto-05/) |
-
-
 <img width="880" height="192" alt="github-snake" src="https://github.com/user-attachments/assets/9c73e34a-e578-495e-861e-6ca4078b970b" /><svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc>
 
 
