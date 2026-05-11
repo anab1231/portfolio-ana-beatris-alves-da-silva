@@ -25,6 +25,13 @@ Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolved
 > "Acredito que com foco e fé, tudo é possível! ✨"
 
 ---
+### 📫 Contato & Redes Sociais
+LinkedIn :https://www.linkedin.com/in/ana-beatris-alves-da-silva-2733842ba
+
+E-mail : anabeatriz76989@gmail.com
+
+Currículo:[Curriculo_Ana_Beatris_Estilo_Original.pdf](https://github.com/user-attachments/files/27613667/Curriculo_Ana_Beatris_Estilo_Original.pdf)
+
 
 ### 🛠️ Toolbox (Minhas Ferramentas)
 
