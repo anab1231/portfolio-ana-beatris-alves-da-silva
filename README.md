@@ -1,13 +1,14 @@
-<h1 align="center">👋 Olá, eu sou a <strong>Ana Beatris Alves</strong>!</h1>
+# 👋 Olá, eu sou a Ana Beatris Alves!
 
 <p align="center">
-  💻 Estudante de <strong> Análise e Desenvolvimento de Sistemas</strong> na <strong>UNICID</strong> e <strong>Obra Social Dom Bosco</strong> <br>
-  📍 São Paulo, Brasil <br>
-  📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
-<img align="left" height="110" src="https://i.imgflip.com/65efzo.gif" 
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20ADS-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Localização-São%20Paulo,%20Brasil-red?style=for-the-badge" alt="Localização">
 </p>
 
-
+<p align="center">
+  💻 <b>Análise e Desenvolvimento de Sistemas</b> na <b>UNICID</b> & <b>Obra Social Dom Bosco</b><br>
+  📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anabeatrisalves/">
@@ -17,34 +18,38 @@
 
 ---
 
-### 🚀 Sobre mim
-Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora. Atualmente, foco em transformar ideias em código através de metodologias ágeis e prototipagem rápida. Gosto de criar projetos que resolvam problemas reais e impacto social.  
-Acredito que com foco e fé, tudo é possível! ✨  
+### 🚀 Sobre Mim
+
+Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora. Atualmente, foco em transformar ideias em código através de **metodologias ágeis** e **prototipagem rápida**. Tenho grande interesse em criar soluções que unam inovação técnica e **impacto social**.
+
+> "Acredito que com foco e fé, tudo é possível! ✨"
 
 ---
 
-### 🛠 Minhas Ferramentas Favoritas
- 
-#### 💻 Linguagens e Tecnologias
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
- 
-#### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dado
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+### 🛠️ Toolbox (Minhas Ferramentas)
 
-#### 🎨 Design
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+#### 💻 Desenvolvimento & Linguagens
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### 🗄️ Banco de Dados & Infra
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+#### 🤖 Inteligência Artificial & No-Code
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble.io-039BE5?style=for-the-badge&logo=bubble&logoColor=white)
+
+#### 🎨 Design & UI/UX
+![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+---
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Modelagem de Banco de Dados
@@ -67,9 +72,8 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 
 ---
- 
 
-### 📂 Portfólio de Projetos obra social dom bosco
+### 📂 Portfólio de Projetos obra social dom bosco 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -93,6 +97,9 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 
 <img width="880" height="192" alt="github-snake" src="https://github.com/user-attachments/assets/9c73e34a-e578-495e-861e-6ca4078b970b" /><svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc>
+
+
+
 
 
 
