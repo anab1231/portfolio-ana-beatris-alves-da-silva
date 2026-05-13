@@ -67,7 +67,7 @@ Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolved
 
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **SM1 - corrida do Prompt** | Engenharia de Instrução (Prompt Engineering) | 02/03 | https://github.com/anab1231/A_corrida_do_Prompt| ✅ Concluído |
+| **SM1 - corrida do Prompt** | Engenharia de Instrução (Prompt Engineering) | 02/03 | https://github.com/anab1231/A_corrida_do_Prompt ✅ Concluído 
 | **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 | https://github.com/anab1231/Laborat-rio-de-Classifica-o-Visual/blob/main/README.md ✅ Concluído |
 | **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | https://github.com/anab1231/SM3---Batalha-de-Modelos-Engenharia-de-Prompt-XML-/blob/main/README.md ✅ Concluído |
 | **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 | https://github.com/anab1231/SM4---Engenharia-Reversa/blob/main/README.md ✅ Concluído |
